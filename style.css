@@ -11,3 +11,78 @@
     border: 5px solid black;
 }
 
+.challenge-box-1 {
+    background-color: green;
+    width: 15%;
+    display: block;
+    height: 10%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.challenge-box-2 {
+    background-color: orange;
+    display: block;
+    height: 10%;
+    width: 15%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.challenge-box-3 {
+    background-color: blue;
+    height: 10%;
+    width: 15%;
+    display: block;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.HTML {
+    display: inline-block;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.CSS {
+    display: inline-block;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.javaScript {
+    display: inline-block;
+    background-color: purple;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Design {
+    display: inline-block;
+    background-color: violet;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Layout {
+    display: inline-block;
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.challenge-3-container {
+    
+}
