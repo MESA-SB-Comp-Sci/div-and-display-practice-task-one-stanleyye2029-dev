@@ -127,17 +127,62 @@
     border-radius: 10px;
 }
 
+.wrapper {
+    background-color: white;
+    width: 50%;
+    height: 20%;
+    display: flex;
+    border-radius: 10px;
+}
+
 .side-bar {
     display: inline-block;
+    width: 30%;
     background-color: black;
     color: white;
-    width: 50px;
+    margin: 10px;
+    padding: 10px;
     border-radius: 10px;
-    padding: 5px;
 }
 
 .main-content {
     display: inline-block;
-    width: 500px;
+    width: 70%;
     background-color: skyblue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.sidebar-text {
+    display: block;
+}
+
+/*------LAST CHALLENGE-----------*/
+
+.challenge-6-container {
+    border-radius: 10px;
+    display: flex;
+}
+
+.challenge-6-header {
+    color: white;
+    background-color: rgba(124, 92, 191);
+    display: block;
+    width: 100%
+}
+
+.challenge-6-main-1 {
+    display: inline-block;
+    background-color: rgba(124, 92, 191);
+}
+
+.challenge-6-main-2 {
+    display: inline-block;
+}
+
+.challenge-6-footer {
+    display: block;
+    background-color: white;
+    width: 100%;
 }
