@@ -163,26 +163,45 @@
 .challenge-6-container {
     border-radius: 10px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .challenge-6-header {
     color: white;
-    background-color: rgba(124, 92, 191);
+    background-color: rgba(124, 92, 191);;
     display: block;
-    width: 100%
+    width: 100vw;
 }
 
 .challenge-6-main-1 {
     display: inline-block;
-    background-color: rgba(124, 92, 191);
+    background-color: lavender;
+    color: rgba(124, 92, 191);
+    width: 50vw;
+}
+
+.skills-container {
+    display: flex;
+    background-color: lavender;
+}
+
+.skill {
+    color: rgb(124, 92, 191);
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid rgb(124, 92, 191);
+    border-radius: 100px;
+    margin: 10px;
 }
 
 .challenge-6-main-2 {
     display: inline-block;
+    width: 50vw;
+    background-color: white;
 }
 
 .challenge-6-footer {
-    display: block;
+    display: inline-block;
     background-color: white;
-    width: 100%;
+    width: 100vw;
 }
